@@ -1,4 +1,4 @@
-#d13Slice: A Matlab function for 3-dimensional visualisation of the d13C ocean climatology of Eide et al., 2017.
+# d13Slice: A Matlab function for 3-dimensional visualisation of the d13C ocean climatology of Eide et al., 2017.
 
 ## Installation instructions
 - Firstly, download the zip file `d13slice_data.zip` and extract all of the contents into a location visible to Matlab. This can either be your current working directory (to find this out, type `cd` into your Matlab command line. 
